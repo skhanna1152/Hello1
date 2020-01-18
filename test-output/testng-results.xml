@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="81" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+  <suite name="Suite" duration-ms="115" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="81" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+    <test name="Test" duration-ms="115" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
       <class name="MavenEx01.TestSuite.tc01_Test">
-        <test-method status="PASS" signature="Method1()[pri:0, instance:MavenEx01.TestSuite.tc01_Test@5a8e6209]" name="Method1" duration-ms="13" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        <test-method status="PASS" signature="Method11()[pri:0, instance:MavenEx01.TestSuite.tc01_Test@5a8e6209]" name="Method11" duration-ms="15" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Method1 -->
-        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc01_Test@5a8e6209]" name="Method2" duration-ms="1" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        </test-method> <!-- Method11 -->
+        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc01_Test@5a8e6209]" name="Method2" duration-ms="3" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Method2 -->
       </class> <!-- MavenEx01.TestSuite.tc01_Test -->
       <class name="MavenEx01.TestSuite.tc02_Test">
-        <test-method status="PASS" signature="Method1()[pri:0, instance:MavenEx01.TestSuite.tc02_Test@4b4523f8]" name="Method1" duration-ms="2" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        <test-method status="PASS" signature="Method1()[pri:0, instance:MavenEx01.TestSuite.tc02_Test@4b4523f8]" name="Method1" duration-ms="3" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Method1 -->
-        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc02_Test@4b4523f8]" name="Method2" duration-ms="2" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc02_Test@4b4523f8]" name="Method2" duration-ms="2" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Method2 -->
       </class> <!-- MavenEx01.TestSuite.tc02_Test -->
       <class name="MavenEx01.TestSuite.tc03_Test">
-        <test-method status="PASS" signature="Method1()[pri:0, instance:MavenEx01.TestSuite.tc03_Test@731a74c]" name="Method1" duration-ms="2" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        <test-method status="PASS" signature="Method1()[pri:0, instance:MavenEx01.TestSuite.tc03_Test@731a74c]" name="Method1" duration-ms="2" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Method1 -->
-        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc03_Test@731a74c]" name="Method2" duration-ms="1" started-at="2020-01-17T13:04:37 CST" finished-at="2020-01-17T13:04:37 CST">
+        <test-method status="PASS" signature="Method2()[pri:0, instance:MavenEx01.TestSuite.tc03_Test@731a74c]" name="Method2" duration-ms="2" started-at="2020-01-17T19:56:18 CST" finished-at="2020-01-17T19:56:18 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Method2 -->
