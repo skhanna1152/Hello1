@@ -6,9 +6,9 @@ public class tc01_Test
 {
 
 	@Test
-	public void Method112()
+	public void Method1124()
 	{
-		System.out.println("tc01_Test - Method112");
+		System.out.println("tc01_Test - Method1124");
 	}
 	@Test
 	public void Method2()
