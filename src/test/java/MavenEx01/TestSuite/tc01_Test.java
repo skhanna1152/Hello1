@@ -6,7 +6,7 @@ public class tc01_Test
 {
 
 	@Test
-	public void Method112()
+	public void Method1123()
 	{
 		System.out.println("tc01_Test - Method112");
 	}
